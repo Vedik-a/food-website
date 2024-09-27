@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(Screenshot\ \(136\).png);
+    background-repeat: repeat;
+    background-position: center 100px;
+    margin: 0; 
+    padding: 0; 
+    z-index: 1;
+  
+}
+#navbar {
+    background-color: #f5b041;
+    height: 180px;
+}
+#resturant-logo{
+    width: 200px;
+    height: 100px;
+    margin: 20px 640px;
+    border-radius: 4px; 
+}
+.fa-basket-shopping{
+color:black;
+float :right;
+margin-top:-105px;
+}
+.cart-text{
+     color: black;
+     float:right;
+     margin-top: -90px;
+     margin-right: 40px;
+}
+.fa-phone{
+    color: black;
+    float: left;
+    margin-top:-98px ;
+}
+.phone-text{
+color:black;
+float : left;
+margin-top:-95px
+}
+.phone-text{
+    margin-left: 35px;
+}
+#content{
+    overflow: hidden;
+    background-color: transparent;
+    list-style-type: none;
+}
+#li {
+    float: left; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, cursive;
+    box-shadow: 5px 5px 15px 5px (220, 195, 195);
+}
+#li a:hover{ 
+color: white;
+}
+#li a{
+    color: black;
+    text-decoration: none;
+    margin:0px 10px;
+    margin-left: 210px;
+    }
+    #br{
+        height: 300px;
+        width: 300px;
+        text-align: center;
+        border: 2px solid white;
+        gap: 10px;
+        margin-left: 600px;
+    }
+    #ga{
+        height: 300px;
+        width: 300px;
+        text-align: center;
+        border: 2px solid white;
+        gap: 10px;
+        margin-left: 600px;
+    }
+    #pz{
+        height: 300px;
+        width: 300px;
+        text-align: center;
+        border: 2px solid white;
+        gap: 10px;
+        margin-left: 600px;
+    }
+    #b{
+        font-size: 72px;
+        color: white;
+        text-align: center;
+        gap: 10px;
+        margin: 15px;
+    }
+    #b1{
+    background-color:transparent;
+    border: 2px solid white;
+color: white;
+padding: 3px;
+    }
+    #bb{
+        color: white;
+        text-align: center;
+    }
